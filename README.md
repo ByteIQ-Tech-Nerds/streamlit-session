@@ -1,6 +1,9 @@
 # streamlit-session
 A sample streamlit application
 
+Step 1:
+======
+
 Linux
 ------
 1. First create your virtual environment using venv
@@ -21,5 +24,15 @@ Linux
  
  activate.bat
  
+ Step 2:
+ =======
+ 
+ Clone the git repo by entering the following command:
+ 
+ git clone https://github.com/ByteIQ-Tech-Nerds/streamlit-session
+ 
+ Create your branch 
+ 
+ git checkout -b branch_name
  
  
