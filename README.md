@@ -35,4 +35,8 @@ Linux
  
  git checkout -b branch_name
  
+ Step 3:
+ =======
+ Install streamlit in your system on the current environment
  
+ pip install streamlit
